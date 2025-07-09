@@ -3,7 +3,7 @@ This project is a complete admin dashboard built using React (Vite) for the fron
 🚀 Setup Instructions
 1️⃣ Open the project folder in VS Code (or your preferred editor).
 2️⃣ Open a terminal in the project root.
-3️⃣ Run:
+3️⃣ Run:<br>
 
 composer install
 ✅ Wait for it to finish — this will generate the vendor/ folder.
