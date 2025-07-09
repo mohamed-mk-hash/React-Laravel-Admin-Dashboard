@@ -1,16 +1,16 @@
 This project is a complete admin dashboard built using React (Vite) for the frontend and Laravel API for the backend. It includes user authentication using Laravel Sanctum, protected routes, and token-based API requests via Axios. The dashboard provides features like listing users, adding, updating, and deleting users (CRUD), along with loading states, error handling, and form validations. The app structure is modular, using React Router for navigation and context for state management, making it a clean, maintainable full-stack setup ideal for admin panels or management systems.<br>
-<br><br>
-🚀 Setup Instructions<br>
+<br>
+🚀 Setup Instructions<br><br>
 1️⃣ Open the project folder in VS Code (or your preferred editor).<br>
 2️⃣ Open a terminal in the project root.<br>
 3️⃣ Run:<br>
-<br>
-composer install<br>
+
+composer install<br><br>
 ✅ Wait for it to finish — this will generate the vendor/ folder.<br>
 <br>
 4️⃣ After that, navigate to the React frontend:<br>
-<br>
-cd react<br>
+
+cd react<br><br>
 5️⃣ Run:<br>
 <br>
 npm install<br>
